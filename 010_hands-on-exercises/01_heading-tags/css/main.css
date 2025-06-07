@@ -1,0 +1,20 @@
+h1{
+    font-size:100px;
+}
+
+h2{
+    font-size:80px;
+}
+
+h3{
+    font-size:60px;
+}
+
+h4{
+    font-size:40px;
+}
+
+p{
+    font-size:30px;
+    line-height:1.6; /*improves readability*/
+}
