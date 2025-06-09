@@ -1,0 +1,20 @@
+html,body,div,span,h1,h2,h3,h4,h5,h6,button,p,blockquote,pre,a,del,dfn,em,img,ins,kbd,q,s,samp,small,strong,sub,sup,b,u,i,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,figure,figcaption,footer,header,nav,output,section,time,mark,audio
+select{
+    margin:0;
+    padding:0;
+    border:0;
+    font:inherit; /* inherits the browser's font properties: font-size: 16px */
+    vertical-align:baseline; /* specifies the vertical alignment of an inline element */
+
+    box-sizing: border-box;
+    line-height:1; /* specifies height of line boxes within the element */
+
+    border-radius:0;
+
+    outline:none; /* no outline around anything */
+
+}
+
+ol,ul {
+
+}
