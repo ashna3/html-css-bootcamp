@@ -1,0 +1,24 @@
+input{
+    border:1px solid black;
+    font-size:4rem;
+    margin-top:4px;
+    display:block;
+}
+
+[type=submit]{
+    margin-top:10px;
+    border:1px solid black;
+}
+
+[type=submit]:hover{
+    background-color:#00F00;
+}
+
+[type=submit]:active{
+    background-color:fuchsia;
+}
+
+input:required{
+    border:1px solid red;
+    background-color:rgba(255,182,193,0.13);
+}
