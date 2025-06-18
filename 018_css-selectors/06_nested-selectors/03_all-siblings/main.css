@@ -4,7 +4,7 @@ body{
     padding-top:36px;
 }
 
-div > p{
+div ~ p{
     color:red;
 }
-/* All paragraphs which appear immediately within a div will become red. */
+/* All paragraphs following a div will become red. */
