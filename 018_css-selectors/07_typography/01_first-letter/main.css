@@ -1,7 +1,20 @@
-p{
-    font-size:45px;
+body{
+    width:80%;
+    margin:0 auto;
+    padding-top:30px;
 }
 
-p4{
-    font weight:45px italic;
+p{
+    margin:20px;
+}
+
+p::first-letter{
+    font-family: cursive;
+    font-size: 36px;
+    line-height: .5;
+}
+
+p::first-line{
+    color:red;
+    font-weight:900;
 }
