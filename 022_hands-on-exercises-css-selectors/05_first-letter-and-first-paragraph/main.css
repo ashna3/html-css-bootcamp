@@ -1,0 +1,15 @@
+p{
+    font-size:5rem;
+}
+
+p::first-letter{
+    font-size:10rem;
+    color:red;
+    font-family:cursive;
+
+}
+
+p::first-line{
+    color:blue;
+
+}
