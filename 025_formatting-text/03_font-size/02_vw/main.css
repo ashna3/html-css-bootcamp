@@ -1,0 +1,7 @@
+h1{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 4vw;
+}
+
+/* vw stands for Viewport so the text size changes as you change the window size.
+   Use rem most of the time and occasionally use vm. */
