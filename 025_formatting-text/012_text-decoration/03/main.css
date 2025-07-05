@@ -1,0 +1,9 @@
+html{
+    font-size: 8rem;
+}
+
+div{
+    text-decoration: line-through;
+}
+
+/* Use only text-decoration to strike a line through text. Avoid using the s and del tags */
