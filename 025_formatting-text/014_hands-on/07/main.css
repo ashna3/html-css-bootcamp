@@ -2,3 +2,7 @@ a{
     font-size: 15rem;
     text-decoration: none;
 }
+
+a:hover{
+    text-decoration: underline;
+}
