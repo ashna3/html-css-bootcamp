@@ -1,0 +1,14 @@
+/* flex container */
+body{
+    display: flex;
+    flex-wrap: no-wrap;
+}
+
+/* flex items */
+div{
+    /* formatting */
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    border: 1px solid black;
+}
