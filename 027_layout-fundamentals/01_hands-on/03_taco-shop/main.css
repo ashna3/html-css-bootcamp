@@ -1,0 +1,12 @@
+nav{
+    vertical-align: top;
+    border: 2px solid red;
+    display: inline-block;
+    width: 200px;
+}
+
+main{
+    border: 2px solid red;
+    display: inline-block;
+    width: 500px;
+}
