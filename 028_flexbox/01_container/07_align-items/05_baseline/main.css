@@ -10,8 +10,20 @@ body{
 /* flex items */
 div{
     /* formatting */
+/*    padding: 20px;*/
+    margin: 20px 50px;
     width: 200px;
-    height: 100px;
+/*    height: 100px;*/
     background-color: yellow;
     border: 1px solid black;
+}
+
+#one{
+    min-height: 80px;
+}
+#two{
+    min-height: 50px;
+}
+#one{
+    min-height: 100px;
 }
