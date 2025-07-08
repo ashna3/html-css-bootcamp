@@ -1,0 +1,22 @@
+/* flex container */
+body{
+    display: flex;
+}
+
+/* flex items */
+div{
+    /* formatting */
+    height: 100px;
+    border: 2px solid black;
+}
+
+#d1{
+    flex-grow: 1;
+}
+#d2{
+    flex-grow: 2;
+}
+#d3{
+    flex-grow: 1;
+}
+
