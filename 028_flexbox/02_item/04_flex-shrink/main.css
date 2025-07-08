@@ -1,0 +1,23 @@
+/* flex container */
+body{
+    display: flex;
+}
+
+/* flex items */
+div{
+    /* formatting */
+    height: 100px;
+    border: 2px solid black;
+    width: 400px;
+}
+
+#d1{
+    flex-shrink: 1;
+}
+#d2{
+    flex-shrink: 2;
+}
+#d3{
+    flex-shrink: 1;
+}
+
