@@ -1,0 +1,48 @@
+/* flex container */
+body{
+    display: flex;
+    flex-flow: column wrap;
+    border: 5px solid red;
+}
+
+/* flex items */
+div{
+    /* formatting */
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    background-color: darkgray;
+    border: 1px solid red;
+    text-align: center;
+}
+
+#d10{
+    order: 1;
+}
+#d9{
+    order: 2;
+}
+#d8{
+    order: 3;
+}
+#d7{
+    order: 4;
+}
+#d6{
+    order: 5;
+}
+#d5{
+    order: 6;
+}
+#d4{
+    order: 7;
+}
+#d3{
+    order: 8;
+}
+#d2{
+    order: 9;
+}
+#d1{
+    order: 10;
+}
