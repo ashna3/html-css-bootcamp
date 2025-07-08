@@ -1,0 +1,17 @@
+/* flex container */
+body{
+    display: flex;
+    flex-flow: row wrap;
+    align-content: stretch;
+    border: 5px solid red;
+    height: 500px;
+}
+
+/* flex items */
+div{
+    /* formatting */
+    width: 200px;
+/*    height: 100px;*/
+    background-color: yellow;
+    border: 1px solid black;
+}
