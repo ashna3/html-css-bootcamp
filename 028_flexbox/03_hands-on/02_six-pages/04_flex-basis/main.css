@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    border: 5px solid red;
+}
+
+div{
+    height: 100px;
+    width: 500px;
+    margin: 1em;
+    border: 1px solid red;
+    background-color: darkgray;
+    text-align: center;
+    flex-basis: auto;
+}
